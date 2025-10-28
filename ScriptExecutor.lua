@@ -1,4 +1,3 @@
-
 -- Official ArvieHub GUI (Full Version + Script Detail Viewer) - Final  
 -- by Arvie1290  
   
@@ -9,13 +8,13 @@ local TextService = game:GetService("TextService")
 local LocalPlayer = Players.LocalPlayer  
   
 -- Anti double execute  
-if CoreGui:FindFirstChild("ArvieHub_Gui") then  
-    CoreGui:FindFirstChild("ArvieHub_Gui"):Destroy()  
+if CoreGui:FindFirstChild("ArvieScript_Gui") then  
+    CoreGui:FindFirstChild("ArvieScript_Gui"):Destroy()  
 end  
   
 -- GUI utama  
 local ScreenGui = Instance.new("ScreenGui")  
-ScreenGui.Name = "ArvieHub_Gui"  
+ScreenGui.Name = "ArvieScript_Gui"  
 ScreenGui.Parent = CoreGui  
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling  
   
