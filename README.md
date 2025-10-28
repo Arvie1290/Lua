@@ -7,7 +7,7 @@ Yeah You Can Previee This Script!
 
 # Loadstring 1
 ```lua
-loadstring(game:HttpGett("https://raw.githubusercontent.com/Arvie1290/Lua/Executor1/ScriptExecutor.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Arvie1290/Lua/Executor1/ScriptExecutor.lua"))()
 ```
 
 # End
