@@ -7,7 +7,7 @@ Yeah You Can Previee This Script!
 
 # Loadstring 1
 ```lua
-
+loadstring(game:HttpGett(""))()
 ```
 
 # End
