@@ -1,2 +1,9 @@
-# Lua
-Idk But Here Its A Script Lua Executor Or Original
+# Welcome!
+
+Yeah This Is Have A Version :
+- Executor Lua
+- Roblox Lua
+
+And You Can Visit This! :
+(Visit The Executor Lua!)[]
+(Visit The Roblox Lua!)[]
