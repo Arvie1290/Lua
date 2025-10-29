@@ -199,10 +199,10 @@ RunBtn.Parent = DetailFrame
 local scripts = {      
     {      
         name = "Speed Hub",      
-        url = "https://raw.githubusercontent.com/SpeedHubV5/RANDOMIZER-/refs/heads/main/Esp-kg/SPEED-HUB-X",      
+        url = "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua",      
         gamelink = "https://www.roblox.com/games/126884695634066",      
         namegame = "Grow A Garden",      
-        description = "Script Ini Punya : \n View Egg (Isi Telur) \n Udah Itu Aja Gak Tau Hehehe... :v \n (Keknya Make Key Ato Gak Soalnya Gak Pernah Nyoba)",      
+        description = "Script Ini Punya : \n View Egg (Isi Telur) \n Udah Itu Aja Gak Tau Hehehe... :v \n (Make Key Btw)",      
         photo = "rbxassetid://11228473620",      
         placeid = "126884695634066"      
     },            
